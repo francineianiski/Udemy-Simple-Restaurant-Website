@@ -1,4 +1,4 @@
-# HTML and CSS - Delicious Food Project
+# HTML and CSS - Simple Restaurant Website Project
 
 This project combines HTML and CSS skills.
 
